@@ -1,7 +1,3 @@
-#Check all comments
-#array variable possibility
-#
-#
 #!/bin/bash
 # php.ini Timezone Setting Script
 # Author: John McCarthy
