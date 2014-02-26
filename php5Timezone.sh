@@ -1,7 +1,9 @@
 #!/bin/bash
 # php.ini Timezone Setting Script
 # Author: John McCarthy
+# <http://www.midactstech.blogspot.com> <https://www.github.com/Midacts>
 # Date: December 20, 2013
+# Version 1.0
 #
 # To God only wise, be glory through Jesus Christ forever. Amen.
 # Romans 16:27, I Corinthians 15:1-4
@@ -1415,6 +1417,7 @@ function bootScript()
 	# End of script text
 		echo
 		echo -e "\e[01;37;42mWell Done! You have successfully set your PHP Timezone to $TOWN!\e[0m"
+		echo -e '\e[30;01mCheckout similar material at midactstech.blogspot.com and github.com/Midacts\e[0m'
 		echo
 }
 
